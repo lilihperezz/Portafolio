@@ -1,0 +1,39 @@
+*{
+	box-sizing: border-box;
+}
+
+.orange{
+	color:#F05F40;
+}
+.jumbotron{
+	background-image: url(../img/header.jpg);
+	background-size: cover;
+
+}
+.text{
+	padding: 16% 5%;
+
+}
+h2,p{
+	color: #ffffff;
+	text-align: center;
+	width: 60%;
+	margin-left: 18%;
+}
+.medio{
+	color: #999;
+	text-align: center;
+
+}
+.form{
+	margin:1% 0%;
+
+}
+.buttom{
+	
+	padding: 0.5%;
+	background-color: #F05F40;
+	color:#FFFFFF;
+	
+	
+}
